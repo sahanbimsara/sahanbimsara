@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>- 🎓 I'm a Institute of Computer Engineering Technology student<br>- 🌱 I’m currently learning JavaScript and SpringBoot<br>- 💬 Ask me about web development and JavaScript<br>- 📫 How to reach me: [sahanbimsara2060@gmail.com]
+🚀 About Me<br>- 🎓 I'm a Sri Lanka Institute of Information Technology student<br>- 🌱 I’m currently learning JavaScript and SpringBoot<br>- 💬 Ask me about web development and JavaScript<br>- 📫 How to reach me: [sahanbimsara2060@gmail.com]
 
 
 ## 🌐 Socials:
